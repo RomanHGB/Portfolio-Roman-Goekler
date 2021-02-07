@@ -1,0 +1,32 @@
+{
+  "name": "zusatz-RomanHGB",
+  "version": "1.0.0",
+  "description": "MTD115 Hypermedia 1 | 14.01.2021 | Wolfgang Hochleitner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hypermedia1-WS2020-21/zusatz-RomanHGB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hypermedia1-WS2020-21/zusatz-RomanHGB/issues"
+  },
+  "homepage": "https://github.com/Hypermedia1-WS2020-21/zusatz-RomanHGB#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-cssnano": "^1.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify-es": "^2.0.0"
+  },
+  "dependencies": {
+    "node-gyp": "^7.1.2",
+    "node-sass": "^5.0.0"
+  }
+}
